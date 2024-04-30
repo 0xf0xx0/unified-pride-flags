@@ -17,5 +17,5 @@ I noticed a lot of us were redoing work already done before, hoping this ends up
 - abrosexual - colorpicked - https://web.archive.org/web/20240428162324/https://fyeahaltpride.tumblr.com/post/151704251345/could-you-guys-possibly-make-an-abrosexual-pride
 
 # todo
-- flatten to json
+- use plain json only? provide different formats like yaml and toml?
 - poke more owners of other pride tools

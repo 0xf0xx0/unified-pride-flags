@@ -1,0 +1,722 @@
+{
+    "abro": {
+        "stripes": [
+            "#46d294",
+            "#a3e9ca",
+            "#ffffff",
+            "#f78bb3",
+            "#ee1766"
+        ]
+    },
+    "ace": {
+        "stripes": [
+            "#000000",
+            "#a4a4a4",
+            "#ffffff",
+            "#810081"
+        ]
+    },
+    "agen": {
+        "stripes": [
+            "#000000",
+            "#bababa",
+            "#ffffff",
+            "#baf484",
+            "#ffffff",
+            "#bababa",
+            "#000000"
+        ]
+    },
+    "akiosex": {
+        "stripes": [
+            "#f9485e",
+            "#fea06a",
+            "#fef44c",
+            "#ffffff",
+            "#000000"
+        ]
+    },
+    "androsex": {
+        "stripes": [
+            "#01ccff",
+            "#603524",
+            "#b799de"
+        ]
+    },
+    "aro": {
+        "stripes": [
+            "#3ba740",
+            "#a8d47a",
+            "#ffffff",
+            "#ababab",
+            "#000000"
+        ]
+    },
+    "aroace": {
+        "stripes": [
+            "#e28c00",
+            "#eccd00",
+            "#ffffff",
+            "#62aedc",
+            "#203856"
+        ]
+    },
+    "aroace2": {
+        "stripes": [
+            "#000000",
+            "#810081",
+            "#a4a4a4",
+            "#ffffff",
+            "#a8d47a",
+            "#3ba740"
+        ]
+    },
+    "aroace3": {
+        "stripes": [
+            "#3ba740",
+            "#a8d47a",
+            "#ffffff",
+            "#ababab",
+            "#000000",
+            "#a4a4a4",
+            "#ffffff",
+            "#810081"
+        ]
+    },
+    "autoro": {
+        "stripes": [
+            "#99d9ea",
+            "#3da542",
+            "#7f7f7f"
+        ],
+        "weights": [
+            2,
+            1,
+            2
+        ]
+    },
+    "autosex": {
+        "stripes": [
+            "#99d9ea",
+            "#7f7f7f"
+        ]
+    },
+    "bi": {
+        "stripes": [
+            "#d60270",
+            "#9b4f96",
+            "#0038a8"
+        ],
+        "weights": [
+            4,
+            3,
+            4
+        ]
+    },
+    "bigen": {
+        "stripes": [
+            "#c479a2",
+            "#eda5cd",
+            "#d5c7e8",
+            "#ffffff",
+            "#d5c7e8",
+            "#9ac7e8",
+            "#6d82d1"
+        ]
+    },
+    "biro1": {
+        "stripes": [
+            "#8869a5",
+            "#d8a7d8",
+            "#ffffff",
+            "#fdb18d",
+            "#151638"
+        ]
+    },
+    "biro2": {
+        "stripes": [
+            "#740194",
+            "#aeb1aa",
+            "#ffffff",
+            "#aeb1aa",
+            "#740194"
+        ]
+    },
+    "boyflux": {
+        "stripes": [
+            "#e48ae4",
+            "#9a81b4",
+            "#55bfab",
+            "#ffffff",
+            "#a8a8a8",
+            "#81d5ef",
+            "#69abe5",
+            "#5276d4"
+        ],
+        "weights": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            5,
+            5
+        ]
+    },
+    "classic": {
+        "stripes": [
+            "#e50000",
+            "#ff8d00",
+            "#ffee00",
+            "#028121",
+            "#004cff",
+            "#770088"
+        ]
+    },
+    "demiboy": {
+        "stripes": [
+            "#7f7f7f",
+            "#c4c4c4",
+            "#9fd9eb",
+            "#ffffff",
+            "#9fd9eb",
+            "#c4c4c4",
+            "#7f7f7f"
+        ]
+    },
+    "demienby": {
+        "stripes": [
+            "#7f7f7f",
+            "#c4c4c4",
+            "#fbff75",
+            "#ffffff",
+            "#fbff75",
+            "#c4c4c4",
+            "#7f7f7f"
+        ]
+    },
+    "demifae": {
+        "stripes": [
+            "#7f7f7f",
+            "#c5c5c5",
+            "#97c3a4",
+            "#c4deae",
+            "#ffffff",
+            "#fca2c5",
+            "#ab7edf",
+            "#c5c5c5",
+            "#7f7f7f"
+        ],
+        "weights": [
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ]
+    },
+    "demifaun": {
+        "stripes": [
+            "#7f7f7f",
+            "#c6c6c6",
+            "#fcc688",
+            "#fff19c",
+            "#ffffff",
+            "#8de0d5",
+            "#9682ec",
+            "#c6c6c6",
+            "#7f7f7f"
+        ],
+        "weights": [
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ]
+    },
+    "demigender": {
+        "stripes": [
+            "#7f7f7f",
+            "#c4c4c4",
+            "#cdc5dc",
+            "#ffffff",
+            "#cdc5dc",
+            "#c4c4c4",
+            "#7f7f7f"
+        ]
+    },
+    "demigirl": {
+        "stripes": [
+            "#7f7f7f",
+            "#c4c4c4",
+            "#fcadc9",
+            "#ffffff",
+            "#fcadc9",
+            "#c4c4c4",
+            "#7f7f7f"
+        ]
+    },
+    "enby": {
+        "stripes": [
+            "#fcf431",
+            "#fcfcfc",
+            "#9d59d2",
+            "#282828"
+        ]
+    },
+    "fae": {
+        "stripes": [
+            "#97c3a5",
+            "#c3deae",
+            "#f9facd",
+            "#ffffff",
+            "#fca2c4",
+            "#db8ae4",
+            "#a97edd"
+        ]
+    },
+    "faun": {
+        "stripes": [
+            "#fcd689",
+            "#fff09b",
+            "#faf9cd",
+            "#ffffff",
+            "#8eded9",
+            "#8cacde",
+            "#9782ec"
+        ]
+    },
+    "femboy": {
+        "stripes": [
+            "#d260a5",
+            "#e4afcd",
+            "#fefefe",
+            "#57cef8",
+            "#fefefe",
+            "#e4afcd",
+            "#d260a5"
+        ]
+    },
+    "finsex": {
+        "stripes": [
+            "#b18edf",
+            "#d7b1e2",
+            "#f7cde9",
+            "#f39fce",
+            "#ea7bb3"
+        ]
+    },
+    "fluid": {
+        "stripes": [
+            "#fe76a2",
+            "#ffffff",
+            "#bf12d7",
+            "#000000",
+            "#303cbe"
+        ]
+    },
+    "gay": {
+        "stripes": [
+            "#238d70",
+            "#3ecea9",
+            "#9be8c0",
+            "#ffffff",
+            "#7faae0",
+            "#5643c9",
+            "#411876"
+        ]
+    },
+    "gay2": {
+        "stripes": [
+            "#078d70",
+            "#98e8c1",
+            "#ffffff",
+            "#7bade2",
+            "#3d1a78"
+        ]
+    },
+    "greygen": {
+        "stripes": [
+            "#b3b3b3",
+            "#ffffff",
+            "#062383",
+            "#ffffff",
+            "#535353"
+        ],
+        "weights": [
+            2,
+            1,
+            2,
+            1,
+            2
+        ]
+    },
+    "gynesex": {
+        "stripes": [
+            "#f4a9b7",
+            "#903f2b",
+            "#5b953b"
+        ]
+    },
+    "inter": {
+        "stripes": [
+            "#7a00ab",
+            "#ffd900",
+            "#7a00ab"
+        ],
+        "weights": [
+            2,
+            1,
+            2
+        ]
+    },
+    "inter2": {
+        "stripes": [
+            "#ffd900",
+            "#7a00ab",
+            "#ffd900"
+        ],
+        "weights": [
+            2,
+            1,
+            2
+        ]
+    },
+    "lesbian": {
+        "stripes": [
+            "#d62800",
+            "#ff9b56",
+            "#ffffff",
+            "#d462a6",
+            "#a40062"
+        ]
+    },
+    "neutrois": {
+        "stripes": [
+            "#ffffff",
+            "#2f9d1d",
+            "#000000"
+        ]
+    },
+    "nonconforming": {
+        "stripes": [
+            "#50284d",
+            "#96467b",
+            "#5c96f7",
+            "#ffe6f7",
+            "#5c96f7",
+            "#96467b",
+            "#50284d"
+        ],
+        "weights": [
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4
+        ]
+    },
+    "nonhuman-unity": {
+        "stripes": [
+            "#177b49",
+            "#ffffff",
+            "#593c90"
+        ]
+    },
+    "omnirom": {
+        "stripes": [
+            "#fec8e4",
+            "#fda1db",
+            "#89739a",
+            "#aba7fe",
+            "#bfceff"
+        ]
+    },
+    "omnisex": {
+        "stripes": [
+            "#fe9ace",
+            "#ff53bf",
+            "#200044",
+            "#6760fe",
+            "#8ea6ff"
+        ]
+    },
+    "pan": {
+        "stripes": [
+            "#ff1c8d",
+            "#ffd700",
+            "#1ab3ff"
+        ]
+    },
+    "pangen": {
+        "stripes": [
+            "#fff798",
+            "#feddcd",
+            "#ffebfb",
+            "#ffffff",
+            "#ffebfb",
+            "#feddcd",
+            "#fff798"
+        ]
+    },
+    "pastel": {
+        "stripes": [
+            "#f59679",
+            "#f9ce7b",
+            "#fcf37c",
+            "#9ffd7c",
+            "#7ba1fb",
+            "#ac7cfa"
+        ]
+    },
+    "plural": {
+        "stripes": [
+            "#2d0625",
+            "#543475",
+            "#7675c3",
+            "#89c7b0",
+            "#f3edbd"
+        ]
+    },
+    "poc": {
+        "stripes": [
+            "#61360d",
+            "#000000",
+            "#e50000",
+            "#ff8d00",
+            "#ffee00",
+            "#008121",
+            "#004cff",
+            "#760188"
+        ]
+    },
+    "poly": {
+        "stripes": [
+            "#0000ff",
+            "#ff0000",
+            "#ffff00",
+            "#ff0000",
+            "#000000"
+        ],
+        "weights": [
+            4,
+            2,
+            1,
+            2,
+            4
+        ]
+    },
+    "polysexual": {
+        "stripes": [
+            "#f714ba",
+            "#01d66a",
+            "#1594f6"
+        ]
+    },
+    "pro-inter": {
+        "stripes": [
+            "#ffd900",
+            "#7a00ab",
+            "#ffd900",
+            "#ffffff",
+            "#ffb1c9",
+            "#75d8ef",
+            "#61360d",
+            "#000000",
+            "#e50000",
+            "#ff8d00",
+            "#ffee00",
+            "#008121",
+            "#004cff",
+            "#760188"
+        ],
+        "weights": [
+            2,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+        ]
+    },
+    "progress": {
+        "stripes": [
+            "#ffffff",
+            "#ffb1c9",
+            "#75d8ef",
+            "#61360d",
+            "#000000",
+            "#e50000",
+            "#ff8d00",
+            "#ffee00",
+            "#008121",
+            "#004cff",
+            "#760188"
+        ],
+        "weights": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "queer": {
+        "stripes": [
+            "#b57fdd",
+            "#ffffff",
+            "#49821e"
+        ]
+    },
+    "queerplat": {
+        "stripes": [
+            "#fff87d",
+            "#ffaede",
+            "#ffffff",
+            "#7f7f7f",
+            "#0f0f0f"
+        ]
+    },
+    "sapph": {
+        "stripes": [
+            "#fa6a6b",
+            "#fde79b",
+            "#ffffff",
+            "#8bd2c8",
+            "#8b6ecc"
+        ]
+    },
+    "tomboy": {
+        "stripes": [
+            "#2f3fb9",
+            "#613a03",
+            "#fefefe",
+            "#f1a9b7",
+            "#fefefe",
+            "#613a03",
+            "#2f3fb9"
+        ]
+    },
+    "trans": {
+        "stripes": [
+            "#5bcffb",
+            "#f5abb9",
+            "#ffffff",
+            "#f5abb9",
+            "#5bcffb"
+        ]
+    },
+    "transfem": {
+        "stripes": [
+            "#74deff",
+            "#ffe1ed",
+            "#ffb5d6",
+            "#fe8cbf",
+            "#ffb5d6",
+            "#ffe1ed",
+            "#74deff"
+        ]
+    },
+    "transmasc": {
+        "stripes": [
+            "#ff8bbf",
+            "#cdf5ff",
+            "#9aedff",
+            "#76e0ff",
+            "#9aedff",
+            "#cdf5ff",
+            "#ff8bbf"
+        ]
+    },
+    "trigen": {
+        "stripes": [
+            "#ff95c4",
+            "#9581fe",
+            "#67d965",
+            "#9581fe",
+            "#ff95c4"
+        ]
+    },
+    "unlabeled1": {
+        "stripes": [
+            "#eaf8e4",
+            "#fdfdfb",
+            "#e1eff7",
+            "#f4e2c4"
+        ]
+    },
+    "unlabeled2": {
+        "stripes": [
+            "#250548",
+            "#ffffff",
+            "#f7dcda",
+            "#ec9bee",
+            "#9541fa",
+            "#7d2557"
+        ]
+    },
+    "void": {
+        "stripes": [
+            "#081149",
+            "#4b484b",
+            "#000000",
+            "#4b484b",
+            "#081149"
+        ]
+    },
+    "voidboy": {
+        "stripes": [
+            "#0b130c",
+            "#547655",
+            "#66b969",
+            "#547655",
+            "#0b130c"
+        ]
+    },
+    "voidgirl": {
+        "stripes": [
+            "#180827",
+            "#7a5a8b",
+            "#e09bed",
+            "#7a5a8b",
+            "#180827"
+        ]
+    },
+    "xeno": {
+        "stripes": [
+            "#ff6690",
+            "#ff9897",
+            "#ffb783",
+            "#fbfea7",
+            "#84bbff",
+            "#9d84ff",
+            "#a316fe"
+        ]
+    }
+}
