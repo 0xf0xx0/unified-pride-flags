@@ -1,0 +1,729 @@
+/// merging cli-pride-flags and hyfetch
+{
+    // abrosexual used colorpicker to source from
+    // https://web.archive.org/web/20240428162324/https://fyeahaltpride.tumblr.com/post/151704251345/could-you-guys-possibly-make-an-abrosexual-pride
+    "abro": {
+        "stripes": [
+            "#46D294",
+            "#A3E9CA",
+            "#FFFFFF",
+            "#F78BB3",
+            "#EE1766"
+        ]
+    },
+    "ace": {
+        "stripes": [
+            "#000000",
+            "#A4A4A4",
+            "#FFFFFF",
+            "#810081"
+        ]
+    },
+    "agen": {
+        "stripes": [
+            "#000000",
+            "#BABABA",
+            "#FFFFFF",
+            "#BAF484",
+            "#FFFFFF",
+            "#BABABA",
+            "#000000"
+        ]
+    },
+    "akiosex": {
+        "stripes": [
+            "#F9485E",
+            "#FEA06A",
+            "#FEF44C",
+            "#FFFFFF",
+            "#000000"
+        ]
+    },
+    "androsex": {
+        "stripes": [
+            "#01CCFF",
+            "#603524",
+            "#B799DE"
+        ]
+    },
+    "aro": {
+        "stripes": [
+            "#3BA740",
+            "#A8D47A",
+            "#FFFFFF",
+            "#ABABAB",
+            "#000000"
+        ]
+    },
+    "aroace": {
+        "stripes": [
+            "#E28C00",
+            "#ECCD00",
+            "#FFFFFF",
+            "#62AEDC",
+            "#203856"
+        ]
+    },
+    "aroace2": {
+        "stripes": [
+            "#000000",
+            "#810081",
+            "#A4A4A4",
+            "#FFFFFF",
+            "#A8D47A",
+            "#3BA740"
+        ]
+    },
+    "aroace3": {
+        "stripes": [
+            "#3BA740",
+            "#A8D47A",
+            "#FFFFFF",
+            "#ABABAB",
+            "#000000",
+            "#A4A4A4",
+            "#FFFFFF",
+            "#810081"
+        ]
+    },
+    "autoro": {
+        "stripes": [
+            "#99D9EA",
+            "#3DA542",
+            "#7F7F7F"
+        ],
+        "weights": [
+            2,
+            1,
+            2
+        ]
+    },
+    "autosex": {
+        "stripes": [
+            "#99D9EA",
+            "#7F7F7F"
+        ]
+    },
+    "bi": {
+        "stripes": [
+            "#D60270",
+            "#9B4F96",
+            "#0038A8"
+        ],
+        "weights": [
+            4,
+            3,
+            4
+        ]
+    },
+    "bigen": {
+        "stripes": [
+            "#C479A2",
+            "#EDA5CD",
+            "#D5C7E8",
+            "#FFFFFF",
+            "#D5C7E8",
+            "#9AC7E8",
+            "#6D82D1"
+        ]
+    },
+    "biro1": {
+        "stripes": [
+            "#8869A5",
+            "#D8A7D8",
+            "#FFFFFF",
+            "#FDB18D",
+            "#151638"
+        ]
+    },
+    "biro2": {
+        "stripes": [
+            "#740194",
+            "#AEB1AA",
+            "#FFFFFF",
+            "#AEB1AA",
+            "#740194"
+        ]
+    },
+    /// mx president we lost boyflux1
+    "boyflux": {
+        "stripes": [
+            "#E48AE4",
+            "#9A81B4",
+            "#55BFAB",
+            "#FFFFFF",
+            "#A8A8A8",
+            "#81D5EF",
+            "#69ABE5",
+            "#5276D4"
+        ],
+        "weights": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            5,
+            5
+        ]
+    },
+    "classic": {
+        "stripes": [
+            "#E50000",
+            "#FF8D00",
+            "#FFEE00",
+            "#028121",
+            "#004CFF",
+            "#770088"
+        ]
+    },
+    "demiboy": {
+        "stripes": [
+            "#7f7f7f",
+            "#c4c4c4",
+            "#9fd9eb",
+            "#FFFFFF",
+            "#9fd9eb",
+            "#c4c4c4",
+            "#7f7f7f"
+        ]
+    },
+    "demienby": {
+        "stripes": [
+            "#7f7f7f",
+            "#c4c4c4",
+            "#fbff75",
+            "#FFFFFF",
+            "#fbff75",
+            "#c4c4c4",
+            "#7f7f7f"
+        ]
+    },
+    "demifae": {
+        "stripes": [
+            "#7F7F7F",
+            "#C5C5C5",
+            "#97C3A4",
+            "#C4DEAE",
+            "#FFFFFF",
+            "#FCA2C5",
+            "#AB7EDF",
+            "#C5C5C5",
+            "#7F7F7F"
+        ],
+        "weights": [
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ]
+    },
+    "demifaun": {
+        "stripes": [
+            "#7F7F7F",
+            "#C6C6C6",
+            "#FCC688",
+            "#FFF19C",
+            "#FFFFFF",
+            "#8DE0D5",
+            "#9682EC",
+            "#C6C6C6",
+            "#7F7F7F"
+        ],
+        "weights": [
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ]
+    },
+    /// did it get replaced by the demienby flag? cant find it anywhere
+    "demigender": {
+        "stripes": [
+            "#7f7f7f",
+            "#c4c4c4",
+            "#cdc5dc",
+            "#FFFFFF",
+            "#cdc5dc",
+            "#c4c4c4",
+            "#7f7f7f"
+        ]
+    },
+    "demigirl": {
+        "stripes": [
+            "#7f7f7f",
+            "#c4c4c4",
+            "#fcadc9",
+            "#FFFFFF",
+            "#fcadc9",
+            "#c4c4c4",
+            "#7f7f7f"
+        ]
+    },
+    "enby": {
+        "stripes": [
+            "#FCF431",
+            "#FCFCFC",
+            "#9D59D2",
+            "#282828"
+        ]
+    },
+    "fae": {
+        "stripes": [
+            "#97C3A5",
+            "#C3DEAE",
+            "#F9FACD",
+            "#FFFFFF",
+            "#FCA2C4",
+            "#DB8AE4",
+            "#A97EDD"
+        ]
+    },
+    "faun": {
+        "stripes": [
+            "#FCD689",
+            "#FFF09B",
+            "#FAF9CD",
+            "#FFFFFF",
+            "#8EDED9",
+            "#8CACDE",
+            "#9782EC"
+        ]
+    },
+    "femboy": {
+        "stripes": [
+            "#d260a5",
+            "#e4afcd",
+            "#fefefe",
+            "#57cef8",
+            "#fefefe",
+            "#e4afcd",
+            "#d260a5"
+        ]
+    },
+    "finsex": {
+        "stripes": [
+            "#B18EDF",
+            "#D7B1E2",
+            "#F7CDE9",
+            "#F39FCE",
+            "#EA7BB3"
+        ]
+    },
+    "fluid": {
+        "stripes": [
+            "#FE76A2",
+            "#FFFFFF",
+            "#BF12D7",
+            "#000000",
+            "#303CBE"
+        ]
+    },
+    "gay": {
+        "stripes": [
+            "#238d70",
+            "#3ecea9",
+            "#9be8c0",
+            "#FFFFFF",
+            "#7faae0",
+            "#5643c9",
+            "#411876"
+        ]
+    },
+    "gay2": {
+        "stripes": [
+            "#078D70",
+            "#98E8C1",
+            "#FFFFFF",
+            "#7BADE2",
+            "#3D1A78"
+        ]
+    },
+    "greygen": {
+        "stripes": [
+            "#B3B3B3",
+            "#FFFFFF",
+            "#062383",
+            "#FFFFFF",
+            "#535353"
+        ],
+        "weights": [
+            2,
+            1,
+            2,
+            1,
+            2
+        ]
+    },
+    "gynesex": {
+        "stripes": [
+            "#F4A9B7",
+            "#903F2B",
+            "#5B953B"
+        ]
+    },
+    "inter": {
+        "stripes": [
+            "#7a00ab",
+            "#ffd900",
+            "#7a00ab"
+        ],
+        "weights": [
+            2,
+            1,
+            2
+        ]
+    },
+    "inter2": {
+        "stripes": [
+            "#ffd900",
+            "#7a00ab",
+            "#ffd900"
+        ],
+        "weights": [
+            2,
+            1,
+            2
+        ]
+    },
+    "lesbian": {
+        "stripes": [
+            "#D62800",
+            "#FF9B56",
+            "#FFFFFF",
+            "#D462A6",
+            "#A40062"
+        ]
+    },
+    "neutrois": {
+        "stripes": [
+            "#FFFFFF",
+            "#2f9d1d",
+            "#000000"
+        ]
+    },
+    // TODO: shorten to nonconf, gnc?
+    "nonconforming": {
+        "stripes": [
+            "#50284d",
+            "#96467b",
+            "#5c96f7",
+            "#ffe6f7",
+            "#5c96f7",
+            "#96467b",
+            "#50284d"
+        ],
+        "weights": [
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4
+        ]
+    },
+    "nonhuman-unity": {
+        "stripes": [
+            "#177B49",
+            "#FFFFFF",
+            "#593C90"
+        ]
+    },
+    "omnirom": {
+        "stripes": [
+            "#FEC8E4",
+            "#FDA1DB",
+            "#89739A",
+            "#ABA7FE",
+            "#BFCEFF"
+        ]
+    },
+    "omnisex": {
+        "stripes": [
+            "#FE9ACE",
+            "#FF53BF",
+            "#200044",
+            "#6760FE",
+            "#8EA6FF"
+        ]
+    },
+    "pan": {
+        "stripes": [
+            "#FF1C8D",
+            "#FFD700",
+            "#1AB3FF"
+        ]
+    },
+    "pangen": {
+        "stripes": [
+            "#FFF798",
+            "#FEDDCD",
+            "#FFEBFB",
+            "#FFFFFF",
+            "#FFEBFB",
+            "#FEDDCD",
+            "#FFF798"
+        ]
+    },
+    "pastel": {
+        "stripes": [
+            "#F59679",
+            "#F9CE7B",
+            "#FCF37C",
+            "#9FFD7C",
+            "#7BA1FB",
+            "#AC7CFA"
+        ]
+    },
+    "plural": {
+        "stripes": [
+            "#2D0625",
+            "#543475",
+            "#7675C3",
+            "#89C7B0",
+            "#F3EDBD"
+        ]
+    },
+    "poc": {
+        "stripes": [
+            "#61360d",
+            "#000000",
+            "#e50000",
+            "#ff8d00",
+            "#ffee00",
+            "#008121",
+            "#004cff",
+            "#760188"
+        ]
+    },
+    "poly": {
+        "stripes": [
+            "#0000FF",
+            "#FF0000",
+            "#FFFF00",
+            "#FF0000",
+            "#000000"
+        ],
+        "weights": [
+            4,
+            2,
+            1,
+            2,
+            4
+        ]
+    },
+    "polysexual": {
+        "stripes": [
+            "#F714BA",
+            "#01D66A",
+            "#1594F6"
+        ]
+    },
+    "progress": {
+        "stripes": [
+            "#ffffff",
+            "#ffb1c9",
+            "#75d8ef",
+            "#61360d",
+            "#000000",
+            "#e50000",
+            "#ff8d00",
+            "#ffee00",
+            "#008121",
+            "#004cff",
+            "#760188"
+        ],
+        "weights": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "pro-inter": {
+        "stripes": [
+            "#ffd900",
+            "#7a00ab",
+            "#ffd900",
+            "#ffffff",
+            "#ffb1c9",
+            "#75d8ef",
+            "#61360d",
+            "#000000",
+            "#e50000",
+            "#ff8d00",
+            "#ffee00",
+            "#008121",
+            "#004cff",
+            "#760188"
+        ],
+        "weights": [
+            2,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+        ]
+    },
+    "queer": {
+        "stripes": [
+            "#B57FDD",
+            "#FFFFFF",
+            "#49821E"
+        ]
+    },
+    "queerplat": {
+        "stripes": [
+            "#fff87d",
+            "#ffaede",
+            "#ffffff",
+            "#7f7f7f",
+            "#0f0f0f"
+        ]
+    },
+    "sapph": {
+        "stripes": [
+            "#fa6a6b",
+            "#fde79b",
+            "#ffffff",
+            "#8bd2c8",
+            "#8b6ecc"
+        ]
+    },
+    "tomboy": {
+        "stripes": [
+            "#2f3fb9",
+            "#613a03",
+            "#fefefe",
+            "#f1a9b7",
+            "#fefefe",
+            "#613a03",
+            "#2f3fb9"
+        ]
+    },
+    "trans": {
+        "stripes": [
+            "#5BCFFB",
+            "#F5ABB9",
+            "#FFFFFF",
+            "#F5ABB9",
+            "#5BCFFB"
+        ]
+    },
+    "transfem": {
+        "stripes": [
+            "#74deff",
+            "#ffe1ed",
+            "#ffb5d6",
+            "#fe8cbf",
+            "#ffb5d6",
+            "#ffe1ed",
+            "#74deff"
+        ]
+    },
+    "transmasc": {
+        "stripes": [
+            "#ff8bbf",
+            "#cdf5ff",
+            "#9aedff",
+            "#76e0ff",
+            "#9aedff",
+            "#cdf5ff",
+            "#ff8bbf"
+        ]
+    },
+    "trigen": {
+        "stripes": [
+            "#ff95c4",
+            "#9581fe",
+            "#67d965",
+            "#9581fe",
+            "#ff95c4"
+        ]
+    },
+    // no clue where these are from
+    "unlabeled1": {
+        "stripes": [
+            "#EAF8E4",
+            "#FDFDFB",
+            "#E1EFF7",
+            "#F4E2C4"
+        ]
+    },
+    "unlabeled2": {
+        "stripes": [
+            "#250548",
+            "#FFFFFF",
+            "#F7DCDA",
+            "#EC9BEE",
+            "#9541FA",
+            "#7D2557"
+        ]
+    },
+    "void": {
+        "stripes": [
+            "#081149",
+            "#4B484B",
+            "#000000",
+            "#4B484B",
+            "#081149"
+        ]
+    },
+    "voidboy": {
+        "stripes": [
+            "#0B130C",
+            "#547655",
+            "#66B969",
+            "#547655",
+            "#0B130C"
+        ]
+    },
+    "voidgirl": {
+        "stripes": [
+            "#180827",
+            "#7A5A8B",
+            "#E09BED",
+            "#7A5A8B",
+            "#180827"
+        ]
+    },
+    "xeno": {
+        "stripes": [
+            "#ff6690",
+            "#ff9897",
+            "#ffb783",
+            "#fbfea7",
+            "#84bbff",
+            "#9d84ff",
+            "#a316fe"
+        ]
+    }
+}
