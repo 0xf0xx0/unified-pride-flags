@@ -24,4 +24,5 @@ I noticed a lot of us were redoing work already done before, hoping this ends up
 
 # todo
 - create packages for easier use?
+- spit output onto its own branch?
 - poke more owners of other pride tools
