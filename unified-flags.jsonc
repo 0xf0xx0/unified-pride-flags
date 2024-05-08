@@ -441,7 +441,7 @@
             "#593C90"
         ]
     },
-    "omnirom": {
+    "omniro": {
         "stripes": [
             "#FEC8E4",
             "#FDA1DB",
@@ -669,7 +669,7 @@
             "#ff95c4"
         ]
     },
-    // no clue where these are from
+    /// no clue where these two are from
     "unlabeled1": {
         "stripes": [
             "#EAF8E4",

@@ -1,11 +1,14 @@
 I noticed a lot of us were redoing work already done before, hoping this ends up being a unified place for flag colors :3
 
-# preferred naming format
+# contributing
+## preferred naming format
 - popular name is preferred, like 'ace' for asexual
 - 'gender' is implied, e.g 'voidgender' -> 'void'
 - have -gender or -sexual? shorten to `-gen` and `-sex`, e.g `bigender` -> `bigen`
 - multiple flags for a group have a number appended to them, e.g `gay`, `gay2`
 - other than that, shortenings are to your liking
+## weights
+
 
 # sources
 ## general
@@ -14,8 +17,11 @@ I noticed a lot of us were redoing work already done before, hoping this ends up
 - https://gender.fandom.com/
 - https://www.flagcolorcodes.com/flags/pride - seems to contain troll flags? :\
 ## specific
-- abrosexual - colorpicked - https://web.archive.org/web/20240428162324/https://fyeahaltpride.tumblr.com/post/151704251345/could-you-guys-possibly-make-an-abrosexual-pride
+- abrosexual -  https://web.archive.org/web/20240428162324/https://fyeahaltpride.tumblr.com/post/151704251345/could-you-guys-possibly-make-an-abrosexual-pride
+- demifae -  https://web.archive.org/web/20240508023216/https://www.deviantart.com/pride-flags/art/Demifae-870194777
+- plural - https://web.archive.org/web/20240508023617/https://pluralpedia.org/w/Plurality#/media/File:Plural-Flag-1.jpg
+- nonhuman unity - https://twitter.com/foxbrained/status/1667621855518236674/photo/1
 
 # todo
-- use plain json only? provide different formats like yaml and toml?
+- create packages for easier use?
 - poke more owners of other pride tools
