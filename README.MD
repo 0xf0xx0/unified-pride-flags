@@ -1,5 +1,8 @@
 I noticed a lot of us were redoing work already done before, hoping this ends up being a unified place for flag colors :3
 
+# preview
+Theres a page previewing all the flags on [my site :3](https://experibassmusic.eth.limo/flags.html)
+
 # contributing
 ## preferred naming format
 - popular name is preferred, like 'ace' for asexual
