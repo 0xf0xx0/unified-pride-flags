@@ -50,5 +50,5 @@ const { join } = require('node:path')
 const flags = readJSONC('../unified-flags.jsonc')
 
 const cleaned = cleanFlags(flags)
-writeFileSync(join(__dirname, '../unified-flags.json'), JSON.stringify(cleaned))
-writeFileSync(join(__dirname, '../unified-flags.yaml'), YAML.stringify(cleaned))
+writeFileSync(join(__dirname, '../generated/unified-flags.json'), JSON.stringify(cleaned))
+writeFileSync(join(__dirname, '../generated/unified-flags.yaml'), YAML.stringify(cleaned))
