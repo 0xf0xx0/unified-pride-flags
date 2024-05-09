@@ -5,7 +5,8 @@
   "main": "export-flags.js",
   "keywords": [
     "pride",
-    "pride-flags"
+    "pride-flags",
+    "flags"
   ],
   "bugs": {
     "url": "https://github.com/ExperiBass/unified-pride-flags/issues"
