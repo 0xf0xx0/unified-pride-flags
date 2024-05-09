@@ -7,6 +7,10 @@ I noticed a lot of us were redoing work already done before, hoping this ends up
 - have -gender or -sexual? shorten to `-gen` and `-sex`, e.g `bigender` -> `bigen`
 - multiple flags for a group have a number appended to them, e.g `gay`, `gay2`
 - other than that, shortenings are to your liking
+## weights
+- only needed on flags with stripes of different sizes, like `inter` and `progress`
+- should be reduced by their greatest common factor
+
 
 # sources
 ## general

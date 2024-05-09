@@ -23,7 +23,12 @@ function cleanFlags(flagObj) {
         /// good heavens walter, i cannot decide between upper and lower
         flag.stripes = flag.stripes.map((hex) => hex.toLowerCase())
 
+        weightWatchers:
         if (flag.weights) {
+            if (flag.weights.every((v,_,weights) => v === weights[0])) {
+                delete flag.weights
+                break weightWatchers
+            }
             // find the gcf
             const gcf = flag.weights.reduce(GCF)
             if (gcf > 1) {
