@@ -27,6 +27,12 @@ akiosex:
     - "#fef44c"
     - "#ffffff"
     - "#000000"
+android:
+  stripes:
+    - "#1b6f7b"
+    - "#86a099"
+    - "#7ee9f2"
+    - "#fdfae8"
 androsex:
   stripes:
     - "#01ccff"
@@ -136,6 +142,12 @@ classic:
     - "#028121"
     - "#004cff"
     - "#770088"
+cyborg:
+  stripes:
+    - "#1c0702"
+    - "#875c3c"
+    - "#7fdae7"
+    - "#fef7d3"
 demiboy:
   stripes:
     - "#7f7f7f"
@@ -320,6 +332,12 @@ lesbian:
     - "#ffffff"
     - "#d462a6"
     - "#a40062"
+machine:
+  stripes:
+    - "#191615"
+    - "#797878"
+    - "#adb6b8"
+    - "#f9f7f6"
 neutrois:
   stripes:
     - "#ffffff"
@@ -486,6 +504,12 @@ queerplat:
     - "#ffffff"
     - "#7f7f7f"
     - "#0f0f0f"
+robot:
+  stripes:
+    - "#192121"
+    - "#7b7e7e"
+    - "#7edbe8"
+    - "#fef6f4"
 sapph:
   stripes:
     - "#fa6a6b"

@@ -39,6 +39,14 @@
             "#000000"
         ]
     },
+    "android": {
+        "stripes": [
+            "#1B6F7B",
+            "#86A099",
+            "#7EE9F2",
+            "#FDFAE8"
+        ]
+    },
     "androsex": {
         "stripes": [
             "#01CCFF",
@@ -176,6 +184,14 @@
             "#028121",
             "#004CFF",
             "#770088"
+        ]
+    },
+    "cyborg": {
+        "stripes": [
+            "#1C0702",
+            "#875C3C",
+            "#7FDAE7",
+            "#FEF7D3"
         ]
     },
     "demiboy": {
@@ -406,6 +422,14 @@
             "#A40062"
         ]
     },
+    "machine": {
+        "stripes": [
+            "#191615",
+            "#797878",
+            "#ADB6B8",
+            "#F9F7F6"
+        ]
+    },
     "neutrois": {
         "stripes": [
             "#FFFFFF",
@@ -607,6 +631,14 @@
             "#ffffff",
             "#7f7f7f",
             "#0f0f0f"
+        ]
+    },
+    "robot": {
+        "stripes": [
+            "#192121",
+            "#7B7E7E",
+            "#7EDBE8",
+            "#FEF6F4"
         ]
     },
     "sapph": {

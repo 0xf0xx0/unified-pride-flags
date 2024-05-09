@@ -23,6 +23,7 @@ I noticed a lot of us were redoing work already done before, hoping this ends up
 - demifae -  https://web.archive.org/web/20240508023216/https://www.deviantart.com/pride-flags/art/Demifae-870194777
 - plural - https://web.archive.org/web/20240508023617/https://pluralpedia.org/w/Plurality#/media/File:Plural-Flag-1.jpg
 - nonhuman unity - https://twitter.com/foxbrained/status/1667621855518236674/photo/1
+- machine genders - https://archive.md/T6XSD
 
 # todo
 - create packages for easier use? seems to be the easiest option for everyone
