@@ -7,6 +7,14 @@
     "pride",
     "pride-flags"
   ],
+  "bugs": {
+    "url": "https://github.com/ExperiBass/unified-pride-flags/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExperiBass/unified-pride-flags.git"
+  },
+  "homepage": "https://github.com/ExperiBass/unified-pride-flags#readme",
   "author": "ExperiBass",
   "license": "GPL-3.0-or-later"
 }
