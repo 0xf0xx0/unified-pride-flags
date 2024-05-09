@@ -7,6 +7,12 @@ function sortObjByKey(obj) {
     })
     return Object.fromEntries(entries)
 }
+function GCF(a, b) {
+    if (b === 0) {
+        return a
+    }
+    return GCF(b, a % b)
+}
 
 function cleanFlags(flagObj) {
     flagObj = sortObjByKey(flagObj)
@@ -16,6 +22,15 @@ function cleanFlags(flagObj) {
     for (let [name, flag] of Object.entries(flagObj)) {
         /// good heavens walter, i cannot decide between upper and lower
         flag.stripes = flag.stripes.map((hex) => hex.toLowerCase())
+
+        if (flag.weights) {
+            // find the gcf
+            const gcf = flag.weights.reduce(GCF)
+            if (gcf > 1) {
+                // reduce if possible
+                flag.weights = flag.weights.map(v => v / gcf)
+            }
+        }
         cleanedFlags[name] = flag
     }
     return cleanedFlags

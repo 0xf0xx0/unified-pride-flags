@@ -7,8 +7,6 @@ I noticed a lot of us were redoing work already done before, hoping this ends up
 - have -gender or -sexual? shorten to `-gen` and `-sex`, e.g `bigender` -> `bigen`
 - multiple flags for a group have a number appended to them, e.g `gay`, `gay2`
 - other than that, shortenings are to your liking
-## weights
-
 
 # sources
 ## general
@@ -23,6 +21,6 @@ I noticed a lot of us were redoing work already done before, hoping this ends up
 - nonhuman unity - https://twitter.com/foxbrained/status/1667621855518236674/photo/1
 
 # todo
-- create packages for easier use?
+- create packages for easier use? seems to be the easiest option for everyone
 - spit output onto its own branch?
 - poke more owners of other pride tools
