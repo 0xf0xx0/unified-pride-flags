@@ -1,0 +1,12 @@
+{
+  "name": "unified-pride-flags",
+  "version": "1.0.0",
+  "description": "A (hopefully) unified source for pride flag colors.",
+  "main": "export-flags.js",
+  "keywords": [
+    "pride",
+    "pride-flags"
+  ],
+  "author": "ExperiBass",
+  "license": "GPL-3.0-or-later"
+}
