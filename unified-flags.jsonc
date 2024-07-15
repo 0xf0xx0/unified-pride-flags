@@ -264,6 +264,18 @@
             2
         ]
     },
+    /// i assume the three middle stripes are from flux
+    "demiflux": {
+        "stripes": [
+            "#7f7f7f",
+            "#c4c4c4",
+            "#ff208c",
+            "#fff617",
+            "#00d8ff",
+            "#c4c4c4",
+            "#7f7f7f"
+        ]
+    },
     /// did it get replaced by the demienby flag? cant find it anywhere
     "demigender": {
         "stripes": [
@@ -344,6 +356,18 @@
             "#BF12D7",
             "#000000",
             "#303CBE"
+        ]
+    },
+    /// https://nonbinary.wiki/wiki/Genderflux
+    /// brightened in GIMP
+    "flux": {
+        "stripes": [
+            "#ff208c",
+            "#ff8ab9",
+            "#cecece",
+            "#00eaff",
+            "#00d8ff",
+            "#fff617"
         ]
     },
     "gay": {
@@ -437,7 +461,7 @@
             "#000000"
         ]
     },
-    // TODO: shorten to nonconf, gnc?
+    /// TODO: shorten to nonconf, gnc?
     "nonconforming": {
         "stripes": [
             "#50284d",
