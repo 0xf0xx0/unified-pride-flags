@@ -208,6 +208,15 @@ demifaun:
     - 1
     - 2
     - 2
+demiflux:
+  stripes:
+    - "#7f7f7f"
+    - "#c4c4c4"
+    - "#ff208c"
+    - "#fff617"
+    - "#00d8ff"
+    - "#c4c4c4"
+    - "#7f7f7f"
 demigender:
   stripes:
     - "#7f7f7f"
@@ -273,6 +282,14 @@ fluid:
     - "#bf12d7"
     - "#000000"
     - "#303cbe"
+flux:
+  stripes:
+    - "#ff208c"
+    - "#ff8ab9"
+    - "#cecece"
+    - "#00eaff"
+    - "#00d8ff"
+    - "#fff617"
 gay:
   stripes:
     - "#238d70"
