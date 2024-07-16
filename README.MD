@@ -5,10 +5,10 @@ Theres a page previewing all the flags on [my site :3](https://experibassmusic.e
 
 # contributing
 ## preferred naming format
-- popular name is preferred, like 'ace' for asexual
+- more common name is preferred, like 'ace' for asexual
 - 'gender' is implied, e.g 'voidgender' -> 'void'
-- have -gender or -sexual? shorten to `-gen` and `-sex`, e.g `bigender` -> `bigen`
-- multiple flags for a group have a number appended to them, e.g `gay`, `gay2`
+- does the label have both -gender or -sexual, like `bi`? shorten to `-gen` and `-sex`, e.g `bigender` -> `bigen`
+- multiple flags for a label have a number appended to them and start at 2, e.g `gay`, `gay2`
 - other than that, shortenings are to your liking
 ## weights
 - only needed on flags with stripes of different sizes, like `inter` and `progress`
@@ -18,7 +18,7 @@ Theres a page previewing all the flags on [my site :3](https://experibassmusic.e
 # sources
 ## general
 - https://flag.library.lgbt/hashtags/
-- https://lgbtqia.fandom.com/
+- https://lgbtqia.wiki/
 - https://gender.fandom.com/
 - https://www.flagcolorcodes.com/flags/pride - seems to contain troll flags? :\
 ## specific
