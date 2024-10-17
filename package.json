@@ -1,6 +1,6 @@
 {
   "name": "unified-pride-flags",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A (hopefully) unified source for pride flag colors.",
   "main": "export-flags.js",
   "keywords": [
