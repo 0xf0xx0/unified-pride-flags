@@ -101,7 +101,7 @@ bigen:
     - "#d5c7e8"
     - "#9ac7e8"
     - "#6d82d1"
-biro1:
+biro:
   stripes:
     - "#8869a5"
     - "#d8a7d8"
@@ -575,7 +575,7 @@ trigen:
     - "#67d965"
     - "#9581fe"
     - "#ff95c4"
-unlabeled1:
+unlabeled:
   stripes:
     - "#eaf8e4"
     - "#fdfdfb"

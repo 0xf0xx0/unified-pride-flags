@@ -135,7 +135,7 @@
             "#6D82D1"
         ]
     },
-    "biro1": {
+    "biro": {
         "stripes": [
             "#8869A5",
             "#D8A7D8",
@@ -726,7 +726,7 @@
         ]
     },
     /// no clue where these two are from
-    "unlabeled1": {
+    "unlabeled": {
         "stripes": [
             "#EAF8E4",
             "#FDFDFB",
