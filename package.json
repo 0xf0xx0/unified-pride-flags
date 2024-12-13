@@ -9,13 +9,13 @@
     "flags"
   ],
   "bugs": {
-    "url": "https://github.com/ExperiBass/unified-pride-flags/issues"
+    "url": "https://github.com/0xf0xx0/unified-pride-flags/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ExperiBass/unified-pride-flags.git"
+    "url": "git+https://github.com/0xf0xx0/unified-pride-flags.git"
   },
-  "homepage": "https://github.com/ExperiBass/unified-pride-flags#readme",
-  "author": "ExperiBass",
+  "homepage": "https://github.com/0xf0xx0/unified-pride-flags#readme",
+  "author": "0xf0xx0",
   "license": "GPL-3.0-or-later"
 }
